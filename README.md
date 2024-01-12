@@ -4,12 +4,14 @@ This course aims to extract valuable and interesting information from large data
 🐁🐂🐅🐇🐉🐍🐎🐐🐒🐓🐕🐖🐁🐂🐅🐇🐉🐍🐎🐐🐒🐓🐕🐖
 
 ### The Final Exam
-- 💐 Data Preprocessing and Analysis
-  - Data Preprocessing - Noise Removal
-  - Data Analysis - Sentiment Analysis
-- 💐 Application of Knowledge Graph
-  - Constructing a Knowledge Graph
-  - Knowledge-Driven Financial Analysis
+- 💐 Supervised Outlier Detection
+- 💐 Weather Recognition
+- 💐 Short Video Classification
+- 💐 Recommendation and Business Analysis
+- 💐 Smoke Status Recognition
+- 💐 Bank Customer Clustering
+- 💐 Social Media Network Analysis
+
 
 🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜☀️🌝🌞⭐🌟🌠🌈☂️☔⚡❄️⛄
 
